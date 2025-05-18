@@ -1,0 +1,17 @@
+
+    RELATÓRIO GERADO EM: 18/05/2025 17:54:31
+
+    --- ESTATÍSTICAS ---
+    Média: 6.34
+    Mediana: 7.90
+    Moda: 3.8
+    Desvio Padrão: 3.35
+    Variância: 11.23
+    Frequência: {1.8: 1, 3.8: 1, 7.9: 1, 8.8: 1, 9.4: 1}
+
+    --- KPIs ---
+    Total de avaliações: 5
+    Clientes satisfeitos (nota ≥ 7): 3 (60.0%)
+    Nota mínima: 1.8
+    Nota máxima: 9.4
+    
