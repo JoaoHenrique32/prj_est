@@ -1,17 +1,37 @@
+RELATÓRIO GERADO EM: 25/05/2025 17:38:44
 
-    RELATÓRIO GERADO EM: 18/05/2025 17:54:31
 
-    --- ESTATÍSTICAS ---
-    Média: 6.34
-    Mediana: 7.90
-    Moda: 3.8
-    Desvio Padrão: 3.35
-    Variância: 11.23
-    Frequência: {1.8: 1, 3.8: 1, 7.9: 1, 8.8: 1, 9.4: 1}
+--- MATÉRIA: geografia ---
+Alunos:
+- cleber (Nota: 10.0)
+- gabriel (Nota: 5.5)
+- brandao (Nota: 6.8)
 
-    --- KPIs ---
-    Total de avaliações: 5
-    Clientes satisfeitos (nota ≥ 7): 3 (60.0%)
-    Nota mínima: 1.8
-    Nota máxima: 9.4
-    
+Estatísticas:
+Média: 7.43, Mediana: 6.80, Moda: 10.0, Desvio Padrão: 2.32, Variância: 5.36
+Total de avaliações: 3, Clientes satisfeitos (nota ≥ 7): 1 (33.3%)
+Nota mínima: 5.5, Nota máxima: 10.0
+
+
+--- MATÉRIA: matematica ---
+Alunos:
+- marcelo (Nota: 10.0)
+- joao (Nota: 8.65)
+- wanderley (Nota: 5.3)
+
+Estatísticas:
+Média: 7.98, Mediana: 8.65, Moda: 10.0, Desvio Padrão: 2.42, Variância: 5.86
+Total de avaliações: 3, Clientes satisfeitos (nota ≥ 7): 2 (66.7%)
+Nota mínima: 5.3, Nota máxima: 10.0
+
+
+--- MATÉRIA: portugues ---
+Alunos:
+- bernardo (Nota: 9.2)
+- neto (Nota: 6.9)
+- luiz (Nota: 4.5)
+
+Estatísticas:
+Média: 6.87, Mediana: 6.90, Moda: 9.2, Desvio Padrão: 2.35, Variância: 5.52
+Total de avaliações: 3, Clientes satisfeitos (nota ≥ 7): 1 (33.3%)
+Nota mínima: 4.5, Nota máxima: 9.2
