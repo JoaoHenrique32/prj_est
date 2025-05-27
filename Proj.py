@@ -5,12 +5,10 @@ import datetime
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
-# Novo formato de armazenamento
 materias = {}
 
 materia_selecionada = None
 
-# Funções de matérias
 def adicionar_materia():
     global materia_selecionada
     nome = simpledialog.askstring("Adicionar Matéria", "Nome da matéria:")
@@ -95,7 +93,6 @@ def excluir_aluno():
     materias[materia_selecionada].pop(index)
     atualizar_lista_alunos()
 
-# Estatísticas e Gráficos
 def gerar_estatisticas():
     if not materias:
         return "Nenhuma matéria registrada."
